@@ -1,6 +1,6 @@
 ! Title: Adguard User Filter
 ! Description: Filter that enables removing of the ads from websites
-! Version: 1.0.0.4
+! Version: 1.0.0.5
 ! TimeUpdated: 2018-08-10T06:29:31-04:00
 ! Expires: 2 hours (update frequency)
 ! Homepage: https://raw.githubusercontent.com/glimpshis/adguard_user_filter.txt/master/adguard_user_filter.txt
