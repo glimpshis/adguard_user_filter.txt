@@ -1,10 +1,9 @@
-﻿! Title: Adguard User Filter
-! %OneDrive%\Documents\adguard_user_filter.txt
+! Title: Adguard User Filter
 ! Description: Filter that enables removing of the ads from websites
-! Version: 1.0.0.2
-! TimeUpdated: 2018-08-10T04:28:41-04:00
+! Version: 1.0.0.3
+! TimeUpdated: 2018-08-10T06:25:21-04:00 
 ! Expires: 5 minutes (update frequency)
-! Homepage: https://doc-0o-ag-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/gv32ligqtftoh7etb01ob13f27eg3nlt/1533880800000/14563705495058603546/*/196DS_oC06I72h_PMAqmgPX-gKk-50IQz?e=download
+! Homepage: https://raw.githubusercontent.com/glimpshis/adguard_user_filter.txt/master/adguard_user_filter.txt
 !
 ! 
 !-------------------------------------------------------------------------------!
